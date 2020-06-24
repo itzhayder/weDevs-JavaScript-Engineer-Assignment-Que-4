@@ -1,5 +1,3 @@
-# que-four
-
 ## Project setup
 ```
 npm install
